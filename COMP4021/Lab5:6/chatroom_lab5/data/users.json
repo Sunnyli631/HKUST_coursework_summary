@@ -1,0 +1,37 @@
+{
+ "12": {
+  "avatar": "Hamster",
+  "name": "12",
+  "hash": "$2b$10$PrALNRxgZuR4dyEpaMWWeOhSlPjpCaiIWKUbJHeRZirjRtjhjfPQO"
+ },
+ "123": {
+  "avatar": "Rabbit Face",
+  "name": "12",
+  "hash": "$2b$10$DpKVv4IqeCciAnYLWLFqhefYKFfEhldVyWIjdHAPZGcTq2uV9n8ku"
+ },
+ "1234": {
+  "avatar": "Rabbit Face",
+  "name": "12",
+  "hash": "$2b$10$8KutdkXKYbp/xYveTZD2NuQ5v6aAKvMvFjTLq3TsnW8DGftRs0nfO"
+ },
+ "tony": {
+  "avatar": "Owl",
+  "name": "Tony Lee",
+  "password": "$2b$10$Yxb2fSgA5RFn9Oz9TxjLLuve/GiPXCs2DWVFhyFDr4qz39qglwp8e"
+ },
+ "may": {
+  "avatar": "Rabbit",
+  "name": "May Wong",
+  "password": "$2b$10$gLc3Ri9W6P650EKKbexw6uvirV8Bar7gmvAtMcoMiPiR3rsY50GVu"
+ },
+ "p": {
+  "avatar": "Hamster",
+  "name": "12",
+  "hash": "$2b$10$cYtVMBP4DFjSxPTyJq1rPeuz1xOmW7KLTklOsTj6OOYQeTltLLyLS"
+ },
+ "sun": {
+  "avatar": "Rabbit Face",
+  "name": "1",
+  "hash": "$2b$10$eaphfRbxaZz1PczHTz71fegV4W0JiEYd35DexeY6KGi86xTK/jrvW"
+ }
+}

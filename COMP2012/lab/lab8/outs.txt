@@ -1,0 +1,27 @@
+Enter testcase number (1: Linear, 2: Quadratic, 3: Double): 3
+**** Insert all the abbreviations ****
+Insert: RSVP, Probe: 1, Number of Probes: 1
+Insert: ASAP, Probe: 3, Number of Probes: 1
+Insert: LMK, Probe: 3, Probe: 6, Number of Probes: 2
+Insert: BRB, Probe: 9, Number of Probes: 1
+Insert: CC, Probe: 4, Number of Probes: 1
+Insert: DOB, Probe: 8, Number of Probes: 1
+Insert: ETA, Probe: 3, Probe: 4, Probe: 5, Number of Probes: 3
+
+*** Search and Print the meaning ***
+Probe: 1, Number of Probes: 1
+Meaning of RSVP: Please reply
+Probe: 4, Number of Probes: 1
+Meaning of CC: Carbon copy
+Probe: 3, Number of Probes: 1
+Meaning of ASAP: As soon as possible
+
+*** Remove some abbreviations ***
+Probe: 9, Number of Probes: 1
+Probe: 4, Number of Probes: 1
+
+*** Search and Print the meaning ***
+Probe: 9, Number of Probes: 1
+Meaning of BRB: Not found
+Probe: 4, Number of Probes: 1
+Meaning of CC: Not found

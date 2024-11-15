@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="232e1a32-b35a-444c-8515-a2e49431a974" name="Changes" comment="some modifications">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/expr/AttributeExpr.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/expr/AttributeExpr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/expr/ConstantExpr.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/expr/ConstantExpr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/expr/NameExpr.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/expr/NameExpr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/misc/ASTArguments$ASTArg.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/misc/ASTArguments$ASTArg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/misc/ASTArguments.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/misc/ASTArguments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/misc/ASTKeyWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/misc/ASTKeyWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/stmt/BreakStmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/stmt/BreakStmt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/stmt/ClassDefStmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/stmt/ClassDefStmt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/stmt/ForStmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/stmt/ForStmt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/stmt/FunctionDefStmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/stmt/FunctionDefStmt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/utils/ASTParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/utils/ASTParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/utils/XMLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hk/ust/comp3021/utils/XMLNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/ASTManager-1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/ASTManager-1.0-SNAPSHOT.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/ASTManager-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/ASTManager-1.0-SNAPSHOT.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/ASTManager-shadow-1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/ASTManager-shadow-1.0-SNAPSHOT.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/ASTManager-shadow-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/ASTManager-shadow-1.0-SNAPSHOT.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/ASTManager-1.0-SNAPSHOT-all.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ASTManager-1.0-SNAPSHOT-all.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/ASTManager-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ASTManager-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/hk.ust.comp3021.ASTManagerEngineTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/hk.ust.comp3021.ASTManagerEngineTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/hk.ust.comp3021.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/hk.ust.comp3021.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-hk.ust.comp3021.ASTManagerEngineTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-hk.ust.comp3021.ASTManagerEngineTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/expr/AttributeExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/expr/AttributeExpr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/expr/ConstantExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/expr/ConstantExpr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/expr/NameExpr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/expr/NameExpr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/misc/ASTArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/misc/ASTArguments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/stmt/FunctionDefStmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hk/ust/comp3021/stmt/FunctionDefStmt.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dp3TYtMCZYex86ULajzqwegK6r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Gradle.ASTManagerEngineTest.testPrintedInformation">
+    <configuration name="ASTManagerEngineTest.testCalledFuncOnXML1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hk.ust.comp3021.ASTManagerEngineTest.testCalledFuncOnXML1&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ASTManagerEngineTest.testMostCommonUsedOp" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hk.ust.comp3021.ASTManagerEngineTest.testMostCommonUsedOp&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ASTManagerEngineTest.testParse2XMLNode" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hk.ust.comp3021.ASTManagerEngineTest.testParse2XMLNode&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ASTManagerEngineTest.testPrintedInformation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hk.ust.comp3021.ASTManagerEngineTest.testPrintedInformation&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ASTManagerEngineTest.testProcessNodeFreq" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hk.ust.comp3021.ASTManagerEngineTest.testProcessNodeFreq&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ASTManagerEngineTest.testPrintedInformation" />
+        <item itemvalue="Gradle.ASTManagerEngineTest.testParse2XMLNode" />
+        <item itemvalue="Gradle.ASTManagerEngineTest.testProcessNodeFreq" />
+        <item itemvalue="Gradle.ASTManagerEngineTest.testCalledFuncOnXML1" />
+        <item itemvalue="Gradle.ASTManagerEngineTest.testMostCommonUsedOp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="232e1a32-b35a-444c-8515-a2e49431a974" name="Changes" comment="" />
+      <created>1710691201026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710691201026</updated>
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <option name="closed" value="true" />
+      <created>1710691833267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710691833267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some expr and some stmt">
+      <option name="closed" value="true" />
+      <created>1710864169848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710864169848</updated>
+    </task>
+    <task id="LOCAL-00003" summary="some count children and get children">
+      <option name="closed" value="true" />
+      <created>1710864986908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710864986908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="some processes">
+      <option name="closed" value="true" />
+      <created>1710916540306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710916540306</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some constructors and children methods">
+      <option name="closed" value="true" />
+      <created>1710951731327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710951731327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some constructors and children methods v1">
+      <option name="closed" value="true" />
+      <created>1710952626595</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710952626595</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add some accessor to resolve errors :)">
+      <option name="closed" value="true" />
+      <created>1711014483655</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711014483655</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rename var to pass code style">
+      <option name="closed" value="true" />
+      <created>1711022511347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711022511347</updated>
+    </task>
+    <task id="LOCAL-00009" summary="implemented more method">
+      <option name="closed" value="true" />
+      <created>1711038555158</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711038555158</updated>
+    </task>
+    <task id="LOCAL-00010" summary="implemented more method">
+      <option name="closed" value="true" />
+      <created>1711081320916</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711081320916</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modified parser">
+      <option name="closed" value="true" />
+      <created>1711089005189</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089005189</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modified parser">
+      <option name="closed" value="true" />
+      <created>1711101187080</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711101187080</updated>
+    </task>
+    <task id="LOCAL-00013" summary="modified parser">
+      <option name="closed" value="true" />
+      <created>1711118399957</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711118399957</updated>
+    </task>
+    <task id="LOCAL-00014" summary="some modifications">
+      <option name="closed" value="true" />
+      <created>1711129776630</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711129776630</updated>
+    </task>
+    <task id="LOCAL-00015" summary="some modifications">
+      <option name="closed" value="true" />
+      <created>1711187694817</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711187694817</updated>
+    </task>
+    <task id="LOCAL-00016" summary="some modifications">
+      <option name="closed" value="true" />
+      <created>1711201229894</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711201229894</updated>
+    </task>
+    <task id="LOCAL-00017" summary="some modifications">
+      <option name="closed" value="true" />
+      <created>1711208298173</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711208298173</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <MESSAGE value="some expr and some stmt" />
+    <MESSAGE value="some count children and get children" />
+    <MESSAGE value="some processes" />
+    <MESSAGE value="some constructors and children methods" />
+    <MESSAGE value="some constructors and children methods v1" />
+    <MESSAGE value="add some accessor to resolve errors :)" />
+    <MESSAGE value="rename var to pass code style" />
+    <MESSAGE value="implemented more method" />
+    <MESSAGE value="modified parser" />
+    <MESSAGE value="some modifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="some modifications" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COMP3021_PA1$ASTManagerEngineTest_testParse2XMLNode.ic" NAME="ASTManagerEngineTest.testParse2XMLNode Coverage Results" MODIFIED="1711100321777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/COMP3021_PA1$ASTManagerEngineTest_testPrintedInformation.ic" NAME="ASTManagerEngineTest.testPrintedInformation Coverage Results" MODIFIED="1711187644577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

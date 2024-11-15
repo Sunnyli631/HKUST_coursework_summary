@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3.2">
+<file name="/Users/sunnyli/IdeaProjects/COMP3021_PA3/src/main/java/hk/ust/comp3021/parallel/QueryWorker.java">
+</file>
+<file name="/Users/sunnyli/IdeaProjects/COMP3021_PA3/src/main/java/hk/ust/comp3021/parallel/ParserWorker.java">
+</file>
+<file name="/Users/sunnyli/IdeaProjects/COMP3021_PA3/src/main/java/hk/ust/comp3021/ASTManagerEngine.java">
+</file>
+<file name="/Users/sunnyli/IdeaProjects/COMP3021_PA3/src/main/java/hk/ust/comp3021/RapidASTManagerEngine.java">
+</file>
+<file name="/Users/sunnyli/IdeaProjects/COMP3021_PA3/src/main/java/hk/ust/comp3021/ASTManager.java">
+</file>
+</checkstyle>

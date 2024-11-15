@@ -1,0 +1,73 @@
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+(AST 18 Succeed! The XML file is loaded!
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+(AST 19 Succeed! The XML file is loaded!
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_20.xml
+(AST 20 Succeed! The XML file is loaded!
+E[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_100.xml
+2AST 100 Failed! Please check your implementation!
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+C[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_1.xml
+'AST 1 Succeed! The XML file is loaded!
+(AST 18 Succeed! The XML file is loaded!
+(AST 19 Succeed! The XML file is loaded!
+?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+;[LOG FROM QueryOnNode] Querying calculateOp2Nums on #AST 1
+:[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+(AST 19 Succeed! The XML file is loaded!
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+(AST 18 Succeed! The XML file is loaded!
+C[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_1.xml
+'AST 1 Succeed! The XML file is loaded!
+?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+;[LOG FROM QueryOnNode] Querying calculateOp2Nums on #AST 1
+:[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+(AST 18 Succeed! The XML file is loaded!
+(AST 19 Succeed! The XML file is loaded!
+<[LOG FROM QueryOnClass] Querying findSuperClasses on AST 18
+:[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+:[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+(AST 19 Succeed! The XML file is loaded!
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+(AST 18 Succeed! The XML file is loaded!
+C[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_1.xml
+'AST 1 Succeed! The XML file is loaded!
+?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+;[LOG FROM QueryOnNode] Querying calculateOp2Nums on #AST 1
+:[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_20.xml
+E[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_100.xml
+2AST 100 Failed! Please check your implementation!
+(AST 20 Succeed! The XML file is loaded!
+(AST 19 Succeed! The XML file is loaded!
+(AST 18 Succeed! The XML file is loaded!
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+(AST 19 Succeed! The XML file is loaded!
+D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+(AST 18 Succeed! The XML file is loaded!
+C[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_1.xml
+'AST 1 Succeed! The XML file is loaded!
+?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+;[LOG FROM QueryOnNode] Querying calculateOp2Nums on #AST 1
+:[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+	D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+	D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_20.xml
+	D[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+	(AST 20 Succeed! The XML file is loaded!
+	(AST 19 Succeed! The XML file is loaded!
+	(AST 18 Succeed! The XML file is loaded!
+	?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+	?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+	?[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 20
+	:[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18

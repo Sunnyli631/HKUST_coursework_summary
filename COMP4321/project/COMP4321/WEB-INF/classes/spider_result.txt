@@ -1,0 +1,2658 @@
+Test page
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+Tue, 16 May 2023 05:03:16 GMT, 603
+new 3; test 3; get 2; cse 2; book 2; new 3; test 3; get 2; cse 2; book 2; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+——————————————–——————————————–——————————————–——————————————–
+Movie Index Page
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+Tue, 16 May 2023 05:09:22 GMT, 19541
+2004 34; 2002 27; 2000 25; 2003 25; 2001 20; 2004 34; 2002 27; 2000 25; 2003 25; 2001 20; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/228.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/214.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/192.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/259.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/231.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/276.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/189.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/144.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/99.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/39.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/129.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/85.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/40.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/175.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/130.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/161.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/245.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/71.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/200.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/274.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/132.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/42.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/146.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/23.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/212.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/194.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/1.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/260.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/247.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/113.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/127.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/56.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/37.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/250.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/117.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/52.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/142.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/97.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/187.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/27.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/139.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/278.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/233.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/49.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/21.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/180.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/58.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/272.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/111.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/148.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/90.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/177.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/171.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/249.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/87.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/221.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/101.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/6.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/3.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/81.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/262.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/120.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/190.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/202.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/158.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/30.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/68.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/199.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/224.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/11.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/196.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/243.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/267.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/5.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/198.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/153.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/222.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/80.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/46.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/94.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/33.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/223.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/183.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/168.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/237.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/47.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/106.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/77.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/32.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/135.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/48.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/271.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/204.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/149.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/31.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/110.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/218.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/252.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/197.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/105.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/18.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/61.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/75.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/4.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/154.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/266.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/50.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/124.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/29.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/125.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/60.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/242.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/19.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/173.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/178.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/241.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/280.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/179.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/51.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/134.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/209.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/172.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/13.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/66.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/248.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/203.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/232.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/70.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/238.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/163.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/76.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/257.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/28.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/115.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/219.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/57.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/22.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/213.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/270.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/95.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/182.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/169.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/251.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/188.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/114.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/69.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/10.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/159.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/24.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/100.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/55.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/131.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/38.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/128.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/176.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/244.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/86.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/41.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/229.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/230.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/191.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/275.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/261.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/145.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/201.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/215.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/263.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/157.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/12.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/102.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/72.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/67.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/258.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/162.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/53.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/143.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/26.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/116.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/277.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/211.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/91.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/217.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/239.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/181.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/186.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/126.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/36.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/234.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/133.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/96.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/43.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/74.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/164.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/256.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/174.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/246.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/84.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/62.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/14.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/9.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/65.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/155.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/104.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/268.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/107.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/17.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/152.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/265.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/205.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/227.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/208.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/193.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/240.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/253.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/167.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/63.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/236.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/170.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/184.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/136.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/78.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/123.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/93.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/137.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/206.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/122.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/16.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/34.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/121.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/59.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/138.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/20.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/207.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/220.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/165.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/108.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/151.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/255.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/64.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/15.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/140.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/269.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/7.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/119.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/45.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/2.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/156.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/195.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/225.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/8.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/150.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/35.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/44.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/109.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/89.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/83.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/273.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/279.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/141.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/226.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/88.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/264.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/82.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/103.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/235.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/73.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/166.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/118.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/210.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/25.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/112.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/54.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/160.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/216.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/147.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/92.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/254.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/79.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/185.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/98.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/228.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/192.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/214.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/259.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/231.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/276.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/189.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/39.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/99.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/144.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/129.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/40.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/85.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/130.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/175.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/161.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/245.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/71.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/200.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/132.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/274.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/42.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/146.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/23.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/1.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/194.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/212.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/260.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/247.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/113.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/56.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/127.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/37.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/250.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/117.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/52.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/97.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/142.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/187.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/27.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/139.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/233.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/278.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/49.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/21.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/58.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/180.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/111.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/272.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/90.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/148.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/177.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/171.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/87.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/249.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/221.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/101.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/6.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/3.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/81.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/262.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/120.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/190.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/202.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/30.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/158.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/68.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/199.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/11.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/224.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/196.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/243.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/5.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/267.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/153.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/198.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/222.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/80.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/46.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/94.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/33.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/168.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/183.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/223.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/237.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/47.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/106.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/32.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/77.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/48.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/135.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/271.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/149.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/204.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/31.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/110.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/218.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/197.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/252.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/18.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/105.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/61.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/75.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/4.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/154.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/266.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/50.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/124.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/29.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/60.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/125.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/19.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/242.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/173.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/178.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/241.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/280.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/51.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/179.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/134.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/209.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/172.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/13.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/66.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/203.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/248.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/70.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/232.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/76.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/163.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/238.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/257.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/28.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/115.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/57.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/219.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/22.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/213.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/270.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/95.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/169.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/182.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/251.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/188.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/69.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/114.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/10.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/24.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/159.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/100.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/55.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/131.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/38.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/128.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/176.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/244.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/41.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/86.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/229.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/230.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/191.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/275.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/145.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/261.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/201.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/215.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/157.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/263.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/12.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/102.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/67.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/72.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/162.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/258.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/53.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/143.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/26.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/116.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/277.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/211.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/91.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/217.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/239.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/181.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/186.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/126.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/36.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/133.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/234.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/43.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/96.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/74.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/164.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/256.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/174.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/84.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/246.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/9.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/14.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/62.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/65.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/104.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/155.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/107.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/268.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/17.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/152.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/265.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/205.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/227.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/193.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/208.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/240.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/253.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/167.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/63.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/170.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/236.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/184.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/136.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/78.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/123.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/93.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/137.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/206.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/122.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/16.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/34.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/121.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/59.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/138.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/20.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/207.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/165.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/220.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/108.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/151.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/255.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/64.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/15.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/140.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/269.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/7.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/119.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/45.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/2.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/156.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/195.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/8.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/225.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/35.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/150.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/44.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/109.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/89.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/83.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/273.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/279.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/141.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/226.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/88.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/264.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/82.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/103.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/73.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/235.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/166.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/118.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/210.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/25.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/112.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/54.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/160.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/216.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/147.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/92.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/254.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/79.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/98.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/185.html
+——————————————–——————————————–——————————————–——————————————–
+News
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+Tue, 16 May 2023 05:03:16 GMT, 384
+new 5; bbc 2; cnn 2; main 2; new 5; bbc 2; cnn 2; main 2; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc.htm
+——————————————–——————————————–——————————————–——————————————–
+CSE department of HKUST
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+Tue, 16 May 2023 05:03:16 GMT, 392
+cse 3; hkust 3; admis 3; ug 2; pg 2; cse 3; hkust 3; admis 3; ug 2; pg 2; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/PG.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/UG.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/PG.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/UG.htm
+——————————————–——————————————–——————————————–——————————————–
+books
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+Tue, 16 May 2023 05:03:16 GMT, 601
+book 3; main 2; read 2; data 2; base 2; book 3; main 2; read 2; data 2; base 2; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book2.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book1.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book3.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book1.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book2.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book3.htm
+——————————————–——————————————–——————————————–——————————————–
+book1
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book1.htm
+Tue, 16 May 2023 05:03:16 GMT, 1617
+inform 4; mean 3; main 3; relat 3; topic 3; inform 4; mean 3; main 3; relat 3; topic 3; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+——————————————–——————————————–——————————————–——————————————–
+book2
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book2.htm
+Tue, 16 May 2023 05:03:16 GMT, 2084
+data 12; base 10; inform 6; gener 5; consid 5; data 12; base 10; inform 6; gener 5; consid 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+——————————————–——————————————–——————————————–——————————————–
+book3
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book3.htm
+Tue, 16 May 2023 05:03:16 GMT, 1994
+term 7; relev 7; mathemat 6; mean 4; book 3; term 7; relev 7; mathemat 6; mean 4; book 3; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+——————————————–——————————————–——————————————–——————————————–
+BBC news
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc.htm
+Tue, 16 May 2023 05:03:44 GMT, 499
+new 4; bbc 3; mp 2; bt 2; 21 2; new 4; bbc 3; mp 2; bt 2; 21 2; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc2.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc1.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc3.htm
+——————————————–——————————————–——————————————–——————————————–
+CNN news
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn.htm
+Tue, 16 May 2023 05:03:44 GMT, 448
+new 4; cnn 3; warm 2; caus 2; mai 2; new 4; cnn 3; warm 2; caus 2; mai 2; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn1.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn2.htm
+——————————————–——————————————–——————————————–——————————————–
+PG
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/PG.htm
+Tue, 16 May 2023 05:03:46 GMT, 3267
+admis 9; comput 9; program 9; applic 8; requir 7; admis 9; comput 9; program 9; applic 8; requir 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+——————————————–——————————————–——————————————–——————————————–
+UG
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/UG.htm
+Tue, 16 May 2023 05:03:46 GMT, 4070
+program 17; comput 14; engin 7; depart 6; csie 5; program 17; comput 14; engin 7; depart 6; csie 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+——————————————–——————————————–——————————————–——————————————–
+Butch and Sundance: The Early Days (1979)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/228.html
+Tue, 16 May 2023 05:03:28 GMT, 6256
+movi 16; imdb 12; user 11; sundanc 10; rate 9; movi 16; imdb 12; user 11; sundanc 10; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The SoulTaker (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/192.html
+Tue, 16 May 2023 05:03:24 GMT, 5077
+imdb 12; rate 11; user 11; episod 10; movi 9; imdb 12; rate 11; user 11; episod 10; movi 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Read-Along: Beauty and the Beast (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/214.html
+Tue, 16 May 2023 05:03:26 GMT, 4007
+beauti 32; titl 14; aka 11; tv 10; beast 10; beauti 32; titl 14; aka 11; tv 10; beast 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Animal (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/259.html
+Tue, 16 May 2023 05:03:32 GMT, 4576
+imdb 12; movi 10; user 10; rate 9; titl 8; imdb 12; movi 10; user 10; rate 9; titl 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Marooned in Iraq (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/231.html
+Tue, 16 May 2023 05:03:28 GMT, 6311
+imdb 12; movi 11; user 11; titl 10; rate 9; imdb 12; movi 11; user 11; titl 10; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cold Harvest (1998)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/276.html
+Tue, 16 May 2023 05:03:34 GMT, 5918
+imdb 12; movi 12; user 11; rate 10; cold 7; imdb 12; movi 12; user 11; rate 10; cold 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Airplane II: The Sequel (1982)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/189.html
+Tue, 16 May 2023 05:03:24 GMT, 7714
+movi 18; airplan 13; imdb 12; rate 11; sequel 11; movi 18; airplan 13; imdb 12; rate 11; sequel 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Love Reinvented (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/39.html
+Tue, 16 May 2023 05:03:38 GMT, 6494
+imdb 12; movi 12; la 11; user 11; un 9; imdb 12; movi 12; la 11; user 11; un 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+A Fishy Story (1989)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/99.html
+Tue, 16 May 2023 05:03:44 GMT, 3271
+stori 23; titl 12; fish 9; tv 8; movi 8; stori 23; titl 12; fish 9; tv 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Deepak Chopra: The Way of the Wizard and Alchemy (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/144.html
+Tue, 16 May 2023 05:03:20 GMT, 2693
+search 16; titl 9; movi 8; alchemi 8; match 6; search 16; titl 9; movi 8; alchemi 8; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Darkwolf (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/129.html
+Tue, 16 May 2023 05:03:20 GMT, 3300
+der 15; wolf 14; titl 10; tv 8; movi 8; der 15; wolf 14; titl 10; tv 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Pitcher and the Pin-Up (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/40.html
+Tue, 16 May 2023 05:03:38 GMT, 5819
+imdb 12; user 11; movi 10; rate 10; home 9; imdb 12; user 11; movi 10; rate 10; home 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Elfen Lied (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/85.html
+Tue, 16 May 2023 05:03:42 GMT, 3668
+li 21; tv 14; titl 13; movi 8; ein 6; li 21; tv 14; titl 13; movi 8; ein 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Drowning on Dry Land (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/130.html
+Tue, 16 May 2023 05:03:20 GMT, 5484
+imdb 12; user 11; movi 10; plot 7; drown 7; imdb 12; user 11; movi 10; plot 7; drown 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Reservoir Dogs (1992)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/175.html
+Tue, 16 May 2023 05:03:22 GMT, 11108
+film 19; rate 13; imdb 12; mr 11; user 11; film 19; rate 13; imdb 12; mr 11; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Ninotchka (1939)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/161.html
+Tue, 16 May 2023 05:03:22 GMT, 7099
+movi 13; imdb 12; rate 11; user 11; ninotchka 11; movi 13; imdb 12; rate 11; user 11; ninotchka 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Road Dogz (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/245.html
+Tue, 16 May 2023 05:03:30 GMT, 6649
+film 15; imdb 12; movi 12; user 11; rate 10; film 15; imdb 12; movi 12; user 11; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Maya Lin: A Strong Clear Vision (1995)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/71.html
+Tue, 16 May 2023 05:03:40 GMT, 5590
+imdb 12; maya 11; user 11; movi 10; lin 9; imdb 12; maya 11; user 11; movi 10; lin 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Fall of the Roman Empire (1964)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/200.html
+Tue, 16 May 2023 05:03:26 GMT, 7062
+movi 14; imdb 12; user 11; empir 11; rate 9; movi 14; imdb 12; user 11; empir 11; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Lucio Fulci: The Beyond (1981)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/132.html
+Tue, 16 May 2023 05:03:20 GMT, 3905
+beyond 27; titl 13; fulci 9; lucio 9; tv 8; beyond 27; titl 13; fulci 9; lucio 9; tv 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Crazy as Hell (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/274.html
+Tue, 16 May 2023 05:03:34 GMT, 6550
+imdb 12; user 11; movi 10; rate 10; film 8; imdb 12; user 11; movi 10; rate 10; film 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Searching for Paradise (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/42.html
+Tue, 16 May 2023 05:03:38 GMT, 6426
+imdb 12; user 11; rate 10; movi 9; film 8; imdb 12; user 11; rate 10; movi 9; film 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cannibal Women in the Avocado Jungle of Death (1988)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/146.html
+Tue, 16 May 2023 05:03:20 GMT, 6918
+avocado 13; imdb 12; movi 12; user 11; women 11; avocado 13; imdb 12; movi 12; user 11; women 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Clifford: Clifford Saves the Day! / Clifford's Fluffiest Friend Cleo (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/23.html
+Tue, 16 May 2023 05:03:28 GMT, 3844
+save 17; search 16; titl 11; movi 8; dai 7; save 17; search 16; titl 11; movi 8; dai 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Dinosaur Planet (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/1.html
+Tue, 16 May 2023 05:03:16 GMT, 3605
+titl 15; planet 12; movi 9; match 8; tv 7; titl 15; planet 12; movi 9; match 8; tv 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Arliss: The Best of Arliss (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/194.html
+Tue, 16 May 2023 05:03:24 GMT, 3792
+search 16; arliss 15; titl 12; v 11; tv 10; search 16; arliss 15; titl 12; v 11; tv 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Querelle (1982)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/212.html
+Tue, 16 May 2023 05:03:26 GMT, 6508
+imdb 12; movi 12; user 11; rate 9; 1982 7; imdb 12; movi 12; user 11; rate 9; 1982 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Marat / Sade (1967)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/260.html
+Tue, 16 May 2023 05:03:32 GMT, 6756
+movi 16; imdb 12; user 11; maratsad 8; 1967 7; movi 16; imdb 12; user 11; maratsad 8; 1967 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Oleanna (1994)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/247.html
+Tue, 16 May 2023 05:03:30 GMT, 7915
+imdb 12; movi 11; user 11; film 8; carol 8; imdb 12; movi 11; user 11; film 8; carol 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Bruce Lee: A Warrior's Journey (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/113.html
+Tue, 16 May 2023 05:03:18 GMT, 6989
+archiv 26; lee 14; imdb 12; bruce 12; movi 11; archiv 26; lee 14; imdb 12; bruce 12; movi 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Carandiru (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/56.html
+Tue, 16 May 2023 05:03:38 GMT, 2769
+titl 13; carandiru 9; movi 8; match 8; tv 4; titl 13; carandiru 9; movi 8; match 8; tv 4; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Fatal Beauty (1987)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/127.html
+Tue, 16 May 2023 05:03:20 GMT, 6802
+imdb 12; user 11; movi 10; film 8; 1987 7; imdb 12; user 11; movi 10; film 8; 1987 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Zatoichi's Conspiracy (1973)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/37.html
+Tue, 16 May 2023 05:03:36 GMT, 6818
+imdb 12; film 10; movi 10; rate 9; shin 8; imdb 12; film 10; movi 10; rate 9; shin 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cast a Giant Shadow (1966)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/250.html
+Tue, 16 May 2023 05:03:30 GMT, 7615
+cast 16; imdb 12; film 11; movi 11; user 11; cast 16; imdb 12; film 11; movi 11; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Silk Stockings (1957)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/117.html
+Tue, 16 May 2023 05:03:18 GMT, 6617
+imdb 12; user 11; movi 10; 1957 7; plot 7; imdb 12; user 11; movi 10; 1957 7; plot 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Weather Underground (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/52.html
+Tue, 16 May 2023 05:03:38 GMT, 10792
+archiv 18; imdb 12; user 11; movi 10; also 9; archiv 18; imdb 12; user 11; movi 10; also 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Mostly Martha (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/97.html
+Tue, 16 May 2023 05:03:44 GMT, 2840
+titl 13; martha 12; movi 8; mostli 8; match 7; titl 13; martha 12; movi 8; mostli 8; match 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Tricky Master (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/142.html
+Tue, 16 May 2023 05:03:20 GMT, 6415
+movi 17; wong 14; imdb 12; user 11; titl 8; movi 17; wong 14; imdb 12; user 11; titl 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Death to Smoochy (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/187.html
+Tue, 16 May 2023 05:03:24 GMT, 8366
+film 12; imdb 12; movi 11; user 11; plot 9; film 12; imdb 12; movi 11; user 11; plot 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sesame Street: Elmo's World: The Street We Live On (1962)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/27.html
+Tue, 16 May 2023 05:03:32 GMT, 3821
+street 29; live 11; titl 11; tv 10; elmo 8; street 29; live 11; titl 11; tv 10; elmo 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Allergies: A Natural Approach (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/139.html
+Tue, 16 May 2023 05:03:20 GMT, 2548
+search 16; titl 9; movi 8; natur 8; allergi 8; search 16; titl 9; movi 8; natur 8; allergi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Chato's Land (1971)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/233.html
+Tue, 16 May 2023 05:03:28 GMT, 11167
+movi 26; it 13; chato 13; imdb 12; rate 9; movi 26; it 13; chato 13; imdb 12; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+100 Days Before the Command (1990)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/278.html
+Tue, 16 May 2023 05:03:34 GMT, 5871
+film 12; imdb 12; user 11; movi 9; rate 9; film 12; imdb 12; user 11; movi 9; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Devo: The Complete Truth About De-evolution (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/49.html
+Tue, 16 May 2023 05:03:38 GMT, 2866
+titl 10; truth 10; complet 9; movi 8; match 6; titl 10; truth 10; complet 9; movi 8; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Strange Relations (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/21.html
+Tue, 16 May 2023 05:03:26 GMT, 6405
+imdb 12; user 11; movi 9; tv 7; cast 7; imdb 12; user 11; movi 9; tv 7; cast 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Dragonheart (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/58.html
+Tue, 16 May 2023 05:03:40 GMT, 7828
+movi 13; imdb 12; user 11; plot 9; dragonheart 9; movi 13; imdb 12; user 11; plot 9; dragonheart 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Scratch (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/180.html
+Tue, 16 May 2023 05:03:24 GMT, 4099
+scratch 48; titl 21; movi 8; 2002 7; tv 5; scratch 48; titl 21; movi 8; 2002 7; tv 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Duplex (Widescreen) (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/111.html
+Tue, 16 May 2023 05:03:18 GMT, 2478
+titl 9; movi 8; match 6; tv 4; result 4; titl 9; movi 8; match 6; tv 4; result 4; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Female Yakuza Tale (1973)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/272.html
+Tue, 16 May 2023 05:03:34 GMT, 6321
+imdb 12; user 11; movi 10; rate 9; 1973 8; imdb 12; user 11; movi 10; rate 9; 1973 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Lemon Drop Kid (1951)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/90.html
+Tue, 16 May 2023 05:03:44 GMT, 4072
+kid 21; lemon 14; titl 11; drop 10; aka 9; kid 21; lemon 14; titl 11; drop 10; aka 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sweet November (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/148.html
+Tue, 16 May 2023 05:03:20 GMT, 8272
+imdb 12; movi 10; film 9; 2001 7; plot 7; imdb 12; movi 10; film 9; 2001 7; plot 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Pressure (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/177.html
+Tue, 16 May 2023 05:03:24 GMT, 5923
+movi 13; imdb 12; rate 11; user 11; pressur 10; movi 13; imdb 12; rate 11; user 11; pressur 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Funny Face (1957)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/171.html
+Tue, 16 May 2023 05:03:22 GMT, 7988
+imdb 12; movi 11; user 11; funni 9; film 8; imdb 12; movi 11; user 11; funni 9; film 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Louder Than Bombs (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/87.html
+Tue, 16 May 2023 05:03:42 GMT, 5523
+imdb 12; user 11; movi 9; rate 9; poland 8; imdb 12; user 11; movi 9; rate 9; poland 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Hunters (1958)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/249.html
+Tue, 16 May 2023 05:03:30 GMT, 6093
+the 27; titl 23; search 16; tv 11; movi 9; the 27; titl 23; search 16; tv 11; movi 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Voyage to the Planets and Beyond (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/221.html
+Tue, 16 May 2023 05:03:28 GMT, 3071
+planet 12; titl 11; movi 8; tv 5; match 4; planet 12; titl 11; movi 8; tv 5; match 4; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Complete Shamanic Princess (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/101.html
+Tue, 16 May 2023 05:03:16 GMT, 3166
+titl 14; complet 12; shaman 9; tv 8; movi 8; titl 14; complet 12; shaman 9; tv 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sick (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/6.html
+Tue, 16 May 2023 05:03:40 GMT, 5243
+sick 71; titl 17; search 16; aka 15; v 10; sick 71; titl 17; search 16; aka 15; v 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Character (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/3.html
+Tue, 16 May 2023 05:03:36 GMT, 4008
+titl 14; movi 8; aka 7; tv 6; imdb 6; titl 14; movi 8; aka 7; tv 6; imdb 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Antarctica: IMAX (1991)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/81.html
+Tue, 16 May 2023 05:03:42 GMT, 3738
+titl 15; tv 9; imax 8; movi 8; imdb 6; titl 15; tv 9; imax 8; movi 8; imdb 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Herbie Rides Again (1974)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/262.html
+Tue, 16 May 2023 05:03:32 GMT, 7169
+imdb 12; user 11; herbi 11; movi 10; plot 8; imdb 12; user 11; herbi 11; movi 10; plot 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Plain Dirty (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/120.html
+Tue, 16 May 2023 05:03:18 GMT, 7025
+imdb 12; movi 12; user 11; love 10; rate 10; imdb 12; movi 12; user 11; love 10; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Blood and Sand (1989)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/190.html
+Tue, 16 May 2023 05:03:24 GMT, 3682
+sand 18; titl 18; blood 13; movi 8; tv 6; sand 18; titl 18; blood 13; movi 8; tv 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Ruby's Bucket of Blood (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/202.html
+Tue, 16 May 2023 05:03:26 GMT, 6495
+imdb 12; movi 11; user 11; rubi 9; 2001 8; imdb 12; movi 11; user 11; rubi 9; 2001 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Something's Gotta Give (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/30.html
+Tue, 16 May 2023 05:03:36 GMT, 9304
+movi 19; love 15; imdb 12; someth 8; dian 7; movi 19; love 15; imdb 12; someth 8; dian 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+A Killer Within (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/158.html
+Tue, 16 May 2023 05:03:22 GMT, 8029
+movi 15; imdb 12; user 11; plot 9; comment 8; movi 15; imdb 12; user 11; plot 9; comment 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Invader Zim (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/68.html
+Tue, 16 May 2023 05:03:40 GMT, 9570
+imdb 12; movi 10; cast 8; invad 8; vasquez 8; imdb 12; movi 10; cast 8; invad 8; vasquez 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Deer Hunter (1978)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/199.html
+Tue, 16 May 2023 05:03:26 GMT, 3896
+titl 17; deer 13; the 12; movi 8; imdb 6; titl 17; deer 13; the 12; movi 8; imdb 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Full Frame: Documentary Shorts (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/11.html
+Tue, 16 May 2023 05:03:18 GMT, 2700
+titl 11; short 10; movi 8; full 6; match 6; titl 11; short 10; movi 8; full 6; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Midsomer Murders: Blood Will Out (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/224.html
+Tue, 16 May 2023 05:03:28 GMT, 2569
+titl 9; movi 8; blood 8; midsom 8; murder 8; titl 9; movi 8; blood 8; midsom 8; murder 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Peter Tosh: Stepping Razor: Red X (1992)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/196.html
+Tue, 16 May 2023 05:03:24 GMT, 2638
+titl 10; red 9; movi 8; tosh 8; step 8; titl 10; red 9; movi 8; tosh 8; step 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Pressure Point (1962)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/243.html
+Tue, 16 May 2023 05:03:30 GMT, 5973
+imdb 12; user 11; movi 10; plot 7; pressur 7; imdb 12; user 11; movi 10; plot 7; pressur 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Rise and Fall of ECW (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/5.html
+Tue, 16 May 2023 05:03:38 GMT, 3928
+fall 29; rise 29; titl 13; tv 9; movi 9; fall 29; rise 29; titl 13; tv 9; movi 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Touched by an Angel: Season 1 (1994)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/267.html
+Tue, 16 May 2023 05:03:32 GMT, 3937
+titl 19; search 16; movi 8; touch 8; angel 7; titl 19; search 16; movi 8; touch 8; angel 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+MTV Yoga (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/153.html
+Tue, 16 May 2023 05:03:22 GMT, 3576
+yoga 22; mtv 16; search 16; titl 14; v 13; yoga 22; mtv 16; search 16; titl 14; v 13; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Gupt (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/198.html
+Tue, 16 May 2023 05:03:26 GMT, 6856
+movi 18; imdb 12; user 11; plot 7; detail 7; movi 18; imdb 12; user 11; plot 7; detail 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Yellow (1998)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/222.html
+Tue, 16 May 2023 05:03:28 GMT, 7377
+imdb 12; film 11; user 11; rate 10; movi 9; imdb 12; film 11; user 11; rate 10; movi 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Winter Kills (1979)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/80.html
+Tue, 16 May 2023 05:03:42 GMT, 8822
+film 12; imdb 12; kill 12; winter 12; movi 11; film 12; imdb 12; kill 12; winter 12; movi 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Rudolph the Red-Nosed Reindeer (1964)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/46.html
+Tue, 16 May 2023 05:03:38 GMT, 2849
+rednos 12; titl 11; movi 9; match 7; tv 5; rednos 12; titl 11; movi 9; match 7; tv 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+G3: Live in Concert (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/94.html
+Tue, 16 May 2023 05:03:44 GMT, 5093
+imdb 12; user 11; live 9; movi 9; concert 9; imdb 12; user 11; live 9; movi 9; concert 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Aqua Teen Hunger Force: Vol. 1 (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/33.html
+Tue, 16 May 2023 05:03:36 GMT, 2759
+forc 11; titl 11; teen 11; movi 10; 1 8; forc 11; titl 11; teen 11; movi 10; 1 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Smokey and the Bandit Part 3 (1983)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/168.html
+Tue, 16 May 2023 05:03:22 GMT, 9575
+bandit 19; movi 16; imdb 12; eno 11; smokei 10; bandit 19; movi 16; imdb 12; eno 11; smokei 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+IFilm: Deranged (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/183.html
+Tue, 16 May 2023 05:03:24 GMT, 3862
+film 22; search 16; tv 13; titl 12; derang 10; film 22; search 16; tv 13; titl 12; derang 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Chappelle's Show: Season 1 (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/223.html
+Tue, 16 May 2023 05:03:28 GMT, 7877
+chappel 19; imdb 12; user 12; movi 10; dave 8; chappel 19; imdb 12; user 12; movi 10; dave 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Broken Blossoms (1918)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/237.html
+Tue, 16 May 2023 05:03:30 GMT, 3769
+titl 19; search 16; aka 13; movi 8; tv 5; titl 19; search 16; aka 13; movi 8; tv 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Bad and the Beautiful (1952)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/47.html
+Tue, 16 May 2023 05:03:38 GMT, 3892
+the 16; titl 15; bad 12; movi 8; tv 7; the 16; titl 15; bad 12; movi 8; tv 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Stevie Ray Vaughan and Double Trouble: Live at Montreux 1982 and 1985 (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/106.html
+Tue, 16 May 2023 05:03:18 GMT, 5754
+imdb 12; user 11; concert 10; movi 9; rate 9; imdb 12; user 11; concert 10; movi 9; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+ABC Primetime: Mel Gibson's The Passion of the Christ (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/32.html
+Tue, 16 May 2023 05:03:36 GMT, 2716
+titl 9; abc 8; movi 8; match 6; tv 4; titl 9; abc 8; movi 8; match 6; tv 4; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Congo (1995)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/77.html
+Tue, 16 May 2023 05:03:40 GMT, 7052
+movi 15; imdb 12; user 11; plot 8; 1995 7; movi 15; imdb 12; user 11; plot 8; 1995 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Justice League (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/48.html
+Tue, 16 May 2023 05:03:38 GMT, 3580
+search 16; titl 15; tv 8; movi 8; 2001 5; search 16; titl 15; tv 8; movi 8; 2001 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+GTO: Great Teacher Onizuka: Set 2 (1998)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/135.html
+Tue, 16 May 2023 05:03:20 GMT, 2706
+titl 10; 2 9; gto 8; set 8; movi 8; titl 10; 2 9; gto 8; set 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Saludos Amigos (1943)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/271.html
+Tue, 16 May 2023 05:03:32 GMT, 7115
+disnei 13; imdb 12; movi 11; user 11; rate 10; disnei 13; imdb 12; movi 11; user 11; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Edward R. Murrow Collection (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/149.html
+Tue, 16 May 2023 05:03:20 GMT, 4092
+v 16; search 16; titl 15; r 9; the 9; v 16; search 16; titl 15; r 9; the 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Venus Boyz (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/204.html
+Tue, 16 May 2023 05:03:26 GMT, 5782
+imdb 12; user 11; movi 10; rate 10; boyz 7; imdb 12; user 11; movi 10; rate 10; boyz 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Classic Albums: Meat Loaf: Bat Out of Hell (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/31.html
+Tue, 16 May 2023 05:03:36 GMT, 4787
+imdb 12; user 11; movi 10; rate 9; loaf 7; imdb 12; user 11; movi 10; rate 9; loaf 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Scandal (1989)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/110.html
+Tue, 16 May 2023 05:03:18 GMT, 7950
+imdb 12; user 11; movi 10; rate 10; film 9; imdb 12; user 11; movi 10; rate 10; film 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Triumph: Live at the US Festival (1983)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/218.html
+Tue, 16 May 2023 05:03:28 GMT, 3746
+live 19; titl 13; tv 8; movi 8; triumph 8; live 19; titl 13; tv 8; movi 8; triumph 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Taking Lives (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/197.html
+Tue, 16 May 2023 05:03:26 GMT, 8754
+movi 13; imdb 12; user 11; take 10; live 9; movi 13; imdb 12; user 11; take 10; live 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Stuart Little 2 (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/252.html
+Tue, 16 May 2023 05:03:30 GMT, 8171
+stuart 18; movi 15; imdb 12; user 11; rate 10; stuart 18; movi 15; imdb 12; user 11; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Immortal Beloved (1994)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/18.html
+Tue, 16 May 2023 05:03:24 GMT, 7583
+movi 13; imdb 12; user 11; belov 9; immort 9; movi 13; imdb 12; user 11; belov 9; immort 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Obsessed (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/105.html
+Tue, 16 May 2023 05:03:18 GMT, 3535
+obsess 29; titl 18; tv 10; movi 8; match 7; obsess 29; titl 18; tv 10; movi 8; match 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Ricky Martin: One Night Only (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/61.html
+Tue, 16 May 2023 05:03:40 GMT, 4172
+imdb 12; user 10; movi 9; rate 9; tv 7; imdb 12; user 10; movi 9; rate 9; tv 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Grind (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/75.html
+Tue, 16 May 2023 05:03:40 GMT, 5651
+imdb 12; movi 10; rate 9; 1997 7; plot 6; imdb 12; movi 10; rate 9; 1997 7; plot 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Paula Abdul's Get Up and Dance (1994)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/4.html
+Tue, 16 May 2023 05:03:38 GMT, 2820
+titl 12; paula 9; movi 8; match 7; danc 6; titl 12; paula 9; movi 8; match 7; danc 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Demon Warrior Koji (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/154.html
+Tue, 16 May 2023 05:03:22 GMT, 4114
+titl 16; movi 10; v 9; demon 9; koji 8; titl 16; movi 10; v 9; demon 9; koji 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Saudade Do Futuro (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/266.html
+Tue, 16 May 2023 05:03:32 GMT, 4386
+imdb 12; user 10; movi 9; rate 9; titl 7; imdb 12; user 10; movi 9; rate 9; titl 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+A Yank in the R.A.F. (1941)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/50.html
+Tue, 16 May 2023 05:03:38 GMT, 7217
+imdb 12; user 11; movi 10; film 9; rate 9; imdb 12; user 11; movi 10; film 9; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cold Blooded (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/124.html
+Tue, 16 May 2023 05:03:18 GMT, 3766
+blood 27; titl 18; movi 8; tv 6; 2000 6; blood 27; titl 18; movi 8; tv 6; 2000 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Boycott (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/29.html
+Tue, 16 May 2023 05:03:36 GMT, 3302
+titl 14; boycott 11; movi 8; match 8; imdb 6; titl 14; boycott 11; movi 8; match 8; imdb 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Libertine (1969)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/60.html
+Tue, 16 May 2023 05:03:40 GMT, 3873
+titl 17; the 9; movi 8; tv 6; result 6; titl 17; the 9; movi 8; tv 6; result 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Nighthawks (1981)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/125.html
+Tue, 16 May 2023 05:03:20 GMT, 7979
+imdb 12; user 11; movi 10; rate 9; 1981 8; imdb 12; user 11; movi 10; rate 9; 1981 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+By Dawn's Early Light (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/19.html
+Tue, 16 May 2023 05:03:24 GMT, 2827
+light 13; titl 12; movi 8; match 8; tv 7; light 13; titl 12; movi 8; match 8; tv 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Neon Genesis Evangelion: The End of Evangelion (1995)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/242.html
+Tue, 16 May 2023 05:03:30 GMT, 8900
+voic 16; japanes 14; imdb 12; seri 12; user 11; voic 16; japanes 14; imdb 12; seri 12; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Devil's Brigade (1968)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/173.html
+Tue, 16 May 2023 05:03:22 GMT, 6984
+movi 13; imdb 12; user 11; devil 11; rate 10; movi 13; imdb 12; user 11; devil 11; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Regular Guys (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/178.html
+Tue, 16 May 2023 05:03:24 GMT, 5971
+imdb 12; user 11; movi 10; rate 10; 1996 7; imdb 12; user 11; movi 10; rate 10; 1996 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+North by Northwest (1959)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/241.html
+Tue, 16 May 2023 05:03:30 GMT, 9712
+film 14; movi 13; imdb 12; titl 11; user 11; film 14; movi 13; imdb 12; titl 11; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sarah Brightman: In Concert (1998)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/280.html
+Tue, 16 May 2023 05:03:34 GMT, 3296
+brightman 16; titl 14; concert 14; sarah 13; movi 8; brightman 16; titl 14; concert 14; sarah 13; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Jonah: A VeggieTales Movie: Bonus Material (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/51.html
+Tue, 16 May 2023 05:03:38 GMT, 2781
+movi 17; titl 11; jonah 9; bonu 8; materi 8; movi 17; titl 11; jonah 9; bonu 8; materi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Bollywood Bound (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/179.html
+Tue, 16 May 2023 05:03:24 GMT, 4620
+imdb 12; user 11; movi 10; rate 9; titl 6; imdb 12; user 11; movi 10; rate 9; titl 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Spirit Lost (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/134.html
+Tue, 16 May 2023 05:03:20 GMT, 5370
+imdb 12; user 11; rate 10; movi 9; lost 7; imdb 12; user 11; rate 10; movi 9; lost 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Star Trek: Deep Space Nine: Season 5 (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/209.html
+Tue, 16 May 2023 05:03:26 GMT, 3068
+nine 16; space 16; search 16; trek 15; star 13; nine 16; space 16; search 16; trek 15; star 13; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Jack (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/172.html
+Tue, 16 May 2023 05:03:22 GMT, 3066
+jack 22; titl 12; match 11; movi 8; imdb 6; jack 22; titl 12; match 11; movi 8; imdb 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Lord of the Rings: The Return of the King: Extended Edition: Bonus Material (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/13.html
+Tue, 16 May 2023 05:03:20 GMT, 2997
+titl 10; return 10; lord 9; king 9; movi 9; titl 10; return 10; lord 9; king 9; movi 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Barbarian Queen 2 (1989)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/66.html
+Tue, 16 May 2023 05:03:40 GMT, 3663
+search 16; titl 14; queen 12; 2 8; movi 8; search 16; titl 14; queen 12; 2 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sports Illustrated Swimsuit Edition: 1997 (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/203.html
+Tue, 16 May 2023 05:03:26 GMT, 3412
+1997 11; titl 11; tv 10; movi 8; sport 8; 1997 11; titl 11; tv 10; movi 8; sport 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Michael Moore's The Awful Truth: Season 2 (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/248.html
+Tue, 16 May 2023 05:03:30 GMT, 2696
+search 16; moor 10; titl 10; aw 8; movi 8; search 16; moor 10; titl 10; aw 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Tai Chi: The 24 Forms (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/70.html
+Tue, 16 May 2023 05:03:40 GMT, 3736
+search 16; tv 12; form 11; titl 11; 24 10; search 16; tv 12; form 11; titl 11; 24 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Gross Anatomy (1989)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/232.html
+Tue, 16 May 2023 05:03:28 GMT, 6767
+movi 21; imdb 12; user 11; 1989 7; plot 7; movi 21; imdb 12; user 11; 1989 7; plot 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+I Love Lucy: Season 2 (1952)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/76.html
+Tue, 16 May 2023 05:03:40 GMT, 3530
+love 28; luci 17; titl 16; search 16; movi 8; love 28; luci 17; titl 16; search 16; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+MTV: Making the Band 2: Best of Season 1 (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/163.html
+Tue, 16 May 2023 05:03:22 GMT, 4086
+search 16; season 16; titl 13; 2 10; tv 10; search 16; season 16; titl 13; 2 10; tv 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Led Zeppelin: The Song Remains the Same (1976)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/238.html
+Tue, 16 May 2023 05:03:30 GMT, 9335
+imdb 12; song 12; movi 11; band 10; film 10; imdb 12; song 12; movi 11; band 10; film 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Charlotte's Web (1973)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/257.html
+Tue, 16 May 2023 05:03:32 GMT, 7637
+charlott 14; movi 13; imdb 12; user 11; web 10; charlott 14; movi 13; imdb 12; user 11; web 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Lilo and Stitch (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/28.html
+Tue, 16 May 2023 05:03:34 GMT, 3863
+stitch 20; titl 15; lilo 11; tv 8; lion 8; stitch 20; titl 15; lilo 11; tv 8; lion 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Lord Peter Wimsey: Murder Must Advertise (1973)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/115.html
+Tue, 16 May 2023 05:03:18 GMT, 8368
+imdb 12; user 11; movi 10; plot 10; wimsei 10; imdb 12; user 11; movi 10; plot 10; wimsei 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Richard III (1995)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/57.html
+Tue, 16 May 2023 05:03:38 GMT, 7318
+imdb 12; richard 12; movi 11; rate 11; user 11; imdb 12; richard 12; movi 11; rate 11; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Neon Bible (1995)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/219.html
+Tue, 16 May 2023 05:03:28 GMT, 6911
+movi 15; imdb 12; user 11; rate 9; plot 8; movi 15; imdb 12; user 11; rate 9; plot 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Chump Change (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/22.html
+Tue, 16 May 2023 05:03:28 GMT, 6333
+movi 14; imdb 12; rate 11; user 11; chang 8; movi 14; imdb 12; rate 11; user 11; chang 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Dinner Rush (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/213.html
+Tue, 16 May 2023 05:03:26 GMT, 7801
+movi 13; imdb 12; user 11; plot 8; dinner 8; movi 13; imdb 12; user 11; plot 8; dinner 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sex and the City: Season 4 (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/270.html
+Tue, 16 May 2023 05:03:32 GMT, 4186
+citi 27; titl 16; search 16; sex 13; tv 10; citi 27; titl 16; search 16; sex 13; tv 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Dona Herlinda and Her Son (1985)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/95.html
+Tue, 16 May 2023 05:03:44 GMT, 5579
+imdb 12; movi 11; user 11; rate 9; doña 7; imdb 12; movi 11; user 11; rate 9; doña 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cartoon Network Halloween: 9 Creepy Cartoon Capers (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/169.html
+Tue, 16 May 2023 05:03:22 GMT, 2695
+cartoon 15; titl 9; 9 8; movi 8; halloween 8; cartoon 15; titl 9; 9 8; movi 8; halloween 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Moby: Play (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/182.html
+Tue, 16 May 2023 05:03:24 GMT, 4803
+imdb 12; user 11; plai 10; movi 9; mobi 8; imdb 12; user 11; plai 10; movi 9; mobi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Midsomer Murders: Strangler's Wood (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/251.html
+Tue, 16 May 2023 05:03:30 GMT, 2583
+titl 9; movi 8; midsom 8; murder 8; wood 6; titl 9; movi 8; midsom 8; murder 8; wood 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Dead Birds (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/188.html
+Tue, 16 May 2023 05:03:24 GMT, 3975
+dead 23; bird 20; titl 19; search 16; movi 8; dead 23; bird 20; titl 19; search 16; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+WWE: Armageddon 2003 (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/69.html
+Tue, 16 May 2023 05:03:40 GMT, 2996
+wwe 12; 2003 11; titl 11; v 9; movi 8; wwe 12; 2003 11; titl 11; v 9; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Dominion Tank Police Part 1 and 2 (1989)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/114.html
+Tue, 16 May 2023 05:03:18 GMT, 2792
+tank 11; polic 11; titl 10; 2 8; 1 8; tank 11; polic 11; titl 10; 2 8; 1 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Fighter (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/10.html
+Tue, 16 May 2023 05:03:16 GMT, 13199
+aka 92; street 57; vg 41; the 17; search 17; aka 92; street 57; vg 41; the 17; search 17; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+My Bloody Valentine (1981)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/24.html
+Tue, 16 May 2023 05:03:30 GMT, 6894
+imdb 12; rate 11; user 11; valentin 9; film 8; imdb 12; rate 11; user 11; valentin 9; film 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Gentlemen of Fortune (1971)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/159.html
+Tue, 16 May 2023 05:03:22 GMT, 7526
+imdb 12; movi 12; plot 10; comedi 7; cast 6; imdb 12; movi 12; plot 10; comedi 7; cast 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sam the Iron Bridge (1993)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/100.html
+Tue, 16 May 2023 05:03:16 GMT, 4110
+bridg 30; titl 16; sam 10; iron 10; movi 8; bridg 30; titl 16; sam 10; iron 10; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Jade (1995)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/55.html
+Tue, 16 May 2023 05:03:38 GMT, 7977
+movi 16; imdb 12; user 11; plot 10; rate 10; movi 16; imdb 12; user 11; plot 10; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Arachnid (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/131.html
+Tue, 16 May 2023 05:03:20 GMT, 7156
+movi 16; imdb 12; user 11; plot 8; 2001 7; movi 16; imdb 12; user 11; plot 8; 2001 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Daydream Obsession (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/38.html
+Tue, 16 May 2023 05:03:38 GMT, 3745
+obses 15; titl 14; movi 8; daydream 8; v 7; obses 15; titl 14; movi 8; daydream 8; v 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Mr. Vampire (1985)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/128.html
+Tue, 16 May 2023 05:03:20 GMT, 3977
+vampir 36; mr 20; titl 15; movi 8; match 8; vampir 36; mr 20; titl 15; movi 8; match 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The History Channel Presents: Troy: Unearthing the Legend (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/176.html
+Tue, 16 May 2023 05:03:24 GMT, 2830
+titl 10; channel 9; present 9; movi 8; troi 8; titl 10; channel 9; present 9; movi 8; troi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Stellvia (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/244.html
+Tue, 16 May 2023 05:03:30 GMT, 5667
+imdb 12; user 11; movi 9; seri 8; cast 6; imdb 12; user 11; movi 9; seri 8; cast 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Horror Vision (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/41.html
+Tue, 16 May 2023 05:03:38 GMT, 3793
+titl 14; vision 12; tv 9; movi 8; v 7; titl 14; vision 12; tv 9; movi 8; v 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Iron Monkey 2 (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/86.html
+Tue, 16 May 2023 05:03:42 GMT, 3631
+monkei 28; 2 15; iron 15; titl 15; movi 8; monkei 28; 2 15; iron 15; titl 15; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Peter Gabriel: Growing Up Live (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/229.html
+Tue, 16 May 2023 05:03:28 GMT, 2880
+search 16; titl 13; live 12; grow 10; movi 8; search 16; titl 13; live 12; grow 10; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Unsolved Mysteries: Psychics (1987)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/230.html
+Tue, 16 May 2023 05:03:28 GMT, 3104
+titl 12; movi 8; tv 6; aka 6; match 6; titl 12; movi 8; tv 6; aka 6; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+X2: X-Men United (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/191.html
+Tue, 16 May 2023 05:03:24 GMT, 8773
+imdb 12; movi 11; titl 11; user 11; x2 9; imdb 12; movi 11; titl 11; user 11; x2 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Evelyn (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/275.html
+Tue, 16 May 2023 05:03:34 GMT, 8940
+movi 15; evelyn 15; imdb 12; doyl 9; film 7; movi 15; evelyn 15; imdb 12; doyl 9; film 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Get Out Your Handkerchiefs (1978)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/145.html
+Tue, 16 May 2023 05:03:20 GMT, 6485
+movi 13; imdb 12; user 11; rate 10; le 7; movi 13; imdb 12; user 11; rate 10; le 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Big Clock (1948)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/261.html
+Tue, 16 May 2023 05:03:32 GMT, 6735
+imdb 12; user 11; movi 10; rate 9; 1948 8; imdb 12; user 11; movi 10; rate 9; 1948 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Home Movie (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/201.html
+Tue, 16 May 2023 05:03:26 GMT, 6102
+movi 18; imdb 12; home 11; user 11; hous 9; movi 18; imdb 12; home 11; user 11; hous 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+That '70s Show: Season 1 (1998)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/215.html
+Tue, 16 May 2023 05:03:26 GMT, 3705
+show 20; that 17; search 16; titl 15; 70 14; show 20; that 17; search 16; titl 15; 70 14; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Laird: White Knuckle Extreme (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/157.html
+Tue, 16 May 2023 05:03:22 GMT, 2675
+titl 10; white 9; movi 8; laird 6; match 6; titl 10; white 9; movi 8; laird 6; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Dragon Ball: Tournament Saga (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/263.html
+Tue, 16 May 2023 05:03:32 GMT, 2685
+titl 10; ball 9; saga 9; movi 8; match 6; titl 10; ball 9; saga 9; movi 8; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+My Favorite Brunette (1947)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/12.html
+Tue, 16 May 2023 05:03:18 GMT, 6432
+movi 14; imdb 12; user 11; favorit 8; 1947 7; movi 14; imdb 12; user 11; favorit 8; 1947 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Notre Musique (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/102.html
+Tue, 16 May 2023 05:03:16 GMT, 10796
+godard 20; movi 13; notr 13; musiqu 13; imdb 12; godard 20; movi 13; notr 13; musiqu 13; imdb 12; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Vampire Journals (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/67.html
+Tue, 16 May 2023 05:03:40 GMT, 6074
+movi 14; imdb 12; film 11; user 11; rate 10; movi 14; imdb 12; film 11; user 11; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+At Home Among Strangers (1974)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/72.html
+Tue, 16 May 2023 05:03:40 GMT, 4027
+home 16; titl 15; tv 10; movi 8; at 7; home 16; titl 15; tv 10; movi 8; at 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+John Cleese on How to Irritate People (1968)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/162.html
+Tue, 16 May 2023 05:03:22 GMT, 6997
+imdb 12; tv 10; movi 10; peopl 10; python 10; imdb 12; tv 10; movi 10; peopl 10; python 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Mann (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/258.html
+Tue, 16 May 2023 05:03:32 GMT, 6687
+imdb 12; user 11; movi 10; mann 10; dev 9; imdb 12; user 11; movi 10; mann 10; dev 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Bonesetter (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/53.html
+Tue, 16 May 2023 05:03:38 GMT, 3566
+titl 18; search 16; the 11; movi 8; imdb 6; titl 18; search 16; the 11; movi 8; imdb 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Game (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/143.html
+Tue, 16 May 2023 05:03:20 GMT, 3283
+game 26; titl 14; the 11; match 11; movi 8; game 26; titl 14; the 11; match 11; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Never Die Alone (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/26.html
+Tue, 16 May 2023 05:03:32 GMT, 7213
+movi 16; imdb 12; user 11; rate 10; die 7; movi 16; imdb 12; user 11; rate 10; die 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Bear Cub (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/116.html
+Tue, 16 May 2023 05:03:18 GMT, 3868
+titl 22; bear 17; search 16; cub 8; movi 8; titl 22; bear 17; search 16; cub 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Enigma: MCMXC A.D (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/277.html
+Tue, 16 May 2023 05:03:34 GMT, 2464
+titl 9; ad 8; movi 8; enigma 8; match 6; titl 9; ad 8; movi 8; enigma 8; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Agronomist (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/211.html
+Tue, 16 May 2023 05:03:26 GMT, 6972
+imdb 12; movi 11; user 11; agronomist 8; jean 7; imdb 12; movi 11; user 11; agronomist 8; jean 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+WWE: Royal Rumble 2005 (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/91.html
+Tue, 16 May 2023 05:03:44 GMT, 3169
+rumbl 27; royal 26; wwe 11; 2005 11; wwf 10; rumbl 27; royal 26; wwe 11; 2005 11; wwf 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cherry 2000 (1988)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/217.html
+Tue, 16 May 2023 05:03:28 GMT, 6819
+movi 16; imdb 12; user 11; 2000 10; cherri 10; movi 16; imdb 12; user 11; 2000 10; cherri 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Winnie the Pooh: Springtime with Roo (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/239.html
+Tue, 16 May 2023 05:03:30 GMT, 6829
+pooh 15; imdb 12; user 11; movi 10; 2004 7; pooh 15; imdb 12; user 11; movi 10; 2004 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Last Shot (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/181.html
+Tue, 16 May 2023 05:03:24 GMT, 3414
+shot 22; titl 14; the 11; movi 8; match 8; shot 22; titl 14; the 11; movi 8; match 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Panic in the Streets (1950)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/186.html
+Tue, 16 May 2023 05:03:24 GMT, 6793
+imdb 12; user 11; movi 10; rate 9; 1950 7; imdb 12; user 11; movi 10; rate 9; 1950 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Vampire Effect (aka Twins Effect) (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/126.html
+Tue, 16 May 2023 05:03:20 GMT, 3084
+effect 16; vampir 13; titl 12; aka 8; movi 8; effect 16; vampir 13; titl 12; aka 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Lady Chatterley (1992)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/36.html
+Tue, 16 May 2023 05:03:36 GMT, 3839
+ladi 31; search 16; titl 15; tv 8; movi 8; ladi 31; search 16; titl 15; tv 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Viva La Bam: Season 1 (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/133.html
+Tue, 16 May 2023 05:03:20 GMT, 7109
+imdb 12; user 11; movi 10; la 9; titl 9; imdb 12; user 11; movi 10; la 9; titl 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Animation Legend: Winsor McCay (1921)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/234.html
+Tue, 16 May 2023 05:03:28 GMT, 3888
+imdb 12; user 10; movi 9; rate 9; winsor 9; imdb 12; user 10; movi 9; rate 9; winsor 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Silent Service (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/43.html
+Tue, 16 May 2023 05:03:38 GMT, 3683
+servic 26; search 16; titl 15; silent 15; tv 9; servic 26; search 16; titl 15; silent 15; tv 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Inside the Space Station (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/96.html
+Tue, 16 May 2023 05:03:44 GMT, 4846
+imdb 12; user 11; movi 9; rate 9; space 9; imdb 12; user 11; movi 9; rate 9; space 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+6ixtynin9 (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/74.html
+Tue, 16 May 2023 05:03:40 GMT, 7152
+movi 14; imdb 12; user 11; rate 10; plot 7; movi 14; imdb 12; user 11; rate 10; plot 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+One Last Dance (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/164.html
+Tue, 16 May 2023 05:03:22 GMT, 6148
+movi 15; danc 14; imdb 12; user 11; plot 7; movi 15; danc 14; imdb 12; user 11; plot 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Ghost Dog: The Way of the Samurai (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/256.html
+Tue, 16 May 2023 05:03:32 GMT, 10489
+film 23; samurai 16; movi 13; imdb 12; user 11; film 23; samurai 16; movi 13; imdb 12; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Adam-12: Season 1 (1968)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/174.html
+Tue, 16 May 2023 05:03:22 GMT, 3601
+search 16; titl 14; 2 10; madam 10; movi 8; search 16; titl 14; 2 10; madam 10; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Powerpuff Girls Movie (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/84.html
+Tue, 16 May 2023 05:03:42 GMT, 8532
+movi 20; imdb 12; user 11; girl 9; titl 8; movi 20; imdb 12; user 11; girl 9; titl 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Boston Strangler (1968)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/246.html
+Tue, 16 May 2023 05:03:30 GMT, 3904
+titl 16; search 16; the 14; boston 12; movi 8; titl 16; search 16; the 14; boston 12; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Class of Nuke 'Em High 2 (1991)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/9.html
+Tue, 16 May 2023 05:03:44 GMT, 7075
+imdb 12; user 11; em 10; nuke 10; class 10; imdb 12; user 11; em 10; nuke 10; class 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Nature: Antarctica (1982)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/14.html
+Tue, 16 May 2023 05:03:20 GMT, 3711
+titl 15; tv 8; movi 8; match 7; natur 4; titl 15; tv 8; movi 8; match 7; natur 4; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Ken Burns' America: Empire of the Air (1991)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/62.html
+Tue, 16 May 2023 05:03:40 GMT, 3769
+america 14; titl 12; empir 12; tv 10; air 9; america 14; titl 12; empir 12; tv 10; air 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Lost in the Pershing Point Hotel (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/65.html
+Tue, 16 May 2023 05:03:40 GMT, 5762
+imdb 12; user 11; film 10; movi 9; rate 9; imdb 12; user 11; film 10; movi 9; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Great Race (1965)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/104.html
+Tue, 16 May 2023 05:03:16 GMT, 3678
+race 29; titl 13; the 12; tv 10; movi 8; race 29; titl 13; the 12; tv 10; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Strongest Man in the World (1975)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/155.html
+Tue, 16 May 2023 05:03:22 GMT, 3882
+titl 13; world 12; the 11; movi 10; tv 8; titl 13; world 12; the 11; movi 10; tv 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Magnolia: Bonus Material (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/107.html
+Tue, 16 May 2023 05:03:18 GMT, 2513
+titl 9; movi 8; materi 8; magnolia 8; match 6; titl 9; movi 8; materi 8; magnolia 8; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Final Countdown (1980)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/268.html
+Tue, 16 May 2023 05:03:32 GMT, 3837
+tv 16; search 16; titl 14; the 8; movi 8; tv 16; search 16; titl 14; the 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+7 Seconds (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/17.html
+Tue, 16 May 2023 05:03:22 GMT, 3521
+search 16; second 14; titl 13; 7 8; movi 8; search 16; second 14; titl 13; 7 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+A Little Princess (1995)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/152.html
+Tue, 16 May 2023 05:03:22 GMT, 3982
+littl 27; titl 20; search 16; aka 10; movi 8; littl 27; titl 20; search 16; aka 10; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Jeff Corwin Experience: Costa Rica and the Amazon (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/265.html
+Tue, 16 May 2023 05:03:32 GMT, 2907
+titl 10; jeff 9; corwin 9; movi 8; rica 8; titl 10; jeff 9; corwin 9; movi 8; rica 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Troy: Bonus Material (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/205.html
+Tue, 16 May 2023 05:03:26 GMT, 2668
+titl 10; materi 9; bonu 8; movi 8; troi 8; titl 10; materi 9; bonu 8; movi 8; troi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Carol Burnett Show: Show Stoppers (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/227.html
+Tue, 16 May 2023 05:03:28 GMT, 3114
+show 14; tv 10; titl 10; the 9; movi 8; show 14; tv 10; titl 10; the 9; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Marilyn Manson: Fear of a Satanic Planet (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/193.html
+Tue, 16 May 2023 05:03:24 GMT, 2625
+titl 9; fear 8; movi 8; satan 8; manson 8; titl 9; fear 8; movi 8; satan 8; manson 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Three Stooges: Sing a Song of Six Pants (1947)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/208.html
+Tue, 16 May 2023 05:03:26 GMT, 4101
+song 22; titl 13; sing 12; tv 11; six 10; song 22; titl 13; sing 12; tv 11; six 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Woman of the Year (1942)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/240.html
+Tue, 16 May 2023 05:03:30 GMT, 7342
+movi 17; imdb 12; user 11; plot 7; 1942 6; movi 17; imdb 12; user 11; plot 7; 1942 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+A Night at the Opera (1935)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/253.html
+Tue, 16 May 2023 05:03:32 GMT, 4111
+titl 18; tv 9; a 8; movi 8; match 8; titl 18; tv 9; a 8; movi 8; match 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Chorus (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/167.html
+Tue, 16 May 2023 05:03:22 GMT, 4135
+choru 47; girl 18; search 16; titl 15; the 10; choru 47; girl 18; search 16; titl 15; the 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Crash Dive (1943)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/63.html
+Tue, 16 May 2023 05:03:40 GMT, 6958
+imdb 12; movi 12; rate 9; crash 8; 1943 7; imdb 12; movi 12; rate 9; crash 8; 1943 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Tomorrow (1972)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/170.html
+Tue, 16 May 2023 05:03:22 GMT, 5980
+imdb 12; movi 11; user 11; rate 9; film 8; imdb 12; movi 11; user 11; rate 9; film 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cartoon Crazys Sci-Fi (1998)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/236.html
+Tue, 16 May 2023 05:03:30 GMT, 2492
+titl 9; movi 8; scifi 8; cartoon 8; match 5; titl 9; movi 8; scifi 8; cartoon 8; match 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Billy Blanks: Tae Bo: Cardio Circuit 1 (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/184.html
+Tue, 16 May 2023 05:03:24 GMT, 2611
+titl 9; 1 8; bo 8; tae 8; movi 8; titl 9; 1 8; bo 8; tae 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cat and the Canary (1927)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/136.html
+Tue, 16 May 2023 05:03:20 GMT, 3394
+titl 13; movi 8; cat 7; match 7; episod 6; titl 13; movi 8; cat 7; match 7; episod 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Jingle All the Way (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/78.html
+Tue, 16 May 2023 05:03:40 GMT, 8021
+movi 13; imdb 12; user 11; christma 8; 1996 7; movi 13; imdb 12; user 11; christma 8; 1996 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Chain of Fools (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/123.html
+Tue, 16 May 2023 05:03:18 GMT, 7193
+imdb 12; rate 11; user 11; chain 10; movi 9; imdb 12; rate 11; user 11; chain 10; movi 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+They Came Back (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/93.html
+Tue, 16 May 2023 05:03:44 GMT, 3504
+titl 14; back 8; movi 8; match 8; thei 7; titl 14; back 8; movi 8; match 8; thei 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Naked Lies (1998)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/137.html
+Tue, 16 May 2023 05:03:20 GMT, 5926
+imdb 12; user 11; movi 10; plot 10; rate 10; imdb 12; user 11; movi 10; plot 10; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Unconstitutional: The War on Our Civil Liberties (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/206.html
+Tue, 16 May 2023 05:03:26 GMT, 7114
+archiv 17; imdb 12; user 11; movi 10; as 7; archiv 17; imdb 12; user 11; movi 10; as 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Cube 2: Hypercube (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/122.html
+Tue, 16 May 2023 05:03:18 GMT, 7862
+cube 16; hypercub 15; movi 14; imdb 12; user 11; cube 16; hypercub 15; movi 14; imdb 12; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Screamers (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/16.html
+Tue, 16 May 2023 05:03:22 GMT, 3737
+titl 17; search 16; movi 9; scream 9; match 8; titl 17; search 16; movi 9; scream 9; match 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Ashtanga Yoga: Beginner's Practice with Nicki Doane (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/34.html
+Tue, 16 May 2023 05:03:36 GMT, 2702
+titl 9; doan 8; movi 8; nicki 8; practic 8; titl 9; doan 8; movi 8; nicki 8; practic 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Beyonce: Live at Wembley (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/121.html
+Tue, 16 May 2023 05:03:18 GMT, 3880
+imdb 12; user 10; movi 9; rate 9; live 6; imdb 12; user 10; movi 9; rate 9; live 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sex and the Beauties (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/59.html
+Tue, 16 May 2023 05:03:40 GMT, 6428
+movi 18; imdb 12; titl 8; 2004 7; jing 7; movi 18; imdb 12; titl 8; 2004 7; jing 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Star Trek: Voyager: Season 1 (1995)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/138.html
+Tue, 16 May 2023 05:03:20 GMT, 4116
+star 25; trek 24; titl 19; search 17; movi 8; star 25; trek 24; titl 19; search 17; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Seeta Aur Geeta (1972)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/20.html
+Tue, 16 May 2023 05:03:26 GMT, 5856
+imdb 12; user 11; movi 10; rate 9; film 7; imdb 12; user 11; movi 10; rate 9; film 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Denise Austin: Ultimate Fat Burner (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/207.html
+Tue, 16 May 2023 05:03:26 GMT, 2583
+titl 9; movi 8; denis 8; ultim 8; match 5; titl 9; movi 8; denis 8; ultim 8; match 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Richard Pryor: Live on the Sunset Strip (1982)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/165.html
+Tue, 16 May 2023 05:03:22 GMT, 6062
+richard 13; imdb 12; user 11; movi 10; live 9; richard 13; imdb 12; user 11; movi 10; live 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Winston Churchill: The Wilderness Years (1983)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/220.html
+Tue, 16 May 2023 05:03:28 GMT, 10591
+winston 16; baldwin 14; imdb 12; user 11; movi 10; winston 16; baldwin 14; imdb 12; user 11; movi 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Spartan (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/108.html
+Tue, 16 May 2023 05:03:18 GMT, 7939
+imdb 12; user 11; movi 10; 2004 8; film 8; imdb 12; user 11; movi 10; 2004 8; film 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sleepover Nightmare (2005)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/151.html
+Tue, 16 May 2023 05:03:22 GMT, 5969
+imdb 12; movi 12; user 11; 2005 8; sleepov 8; imdb 12; movi 12; user 11; 2005 8; sleepov 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Hunchback of Notre Dame II (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/255.html
+Tue, 16 May 2023 05:03:32 GMT, 6973
+movi 14; imdb 12; user 11; ii 9; rate 9; movi 14; imdb 12; user 11; ii 9; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Outside the Law (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/64.html
+Tue, 16 May 2023 05:03:40 GMT, 3775
+titl 18; search 16; law 11; movi 8; tv 6; titl 18; search 16; law 11; movi 8; tv 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Neil Diamond: Greatest Hits Live (1988)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/15.html
+Tue, 16 May 2023 05:03:20 GMT, 5415
+imdb 12; user 11; movi 9; neil 8; concert 8; imdb 12; user 11; movi 9; neil 8; concert 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Lost in the Wild (1993)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/140.html
+Tue, 16 May 2023 05:03:20 GMT, 3997
+wild 24; lost 17; search 16; titl 13; west 13; wild 24; lost 17; search 16; titl 13; west 13; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Parenthood (1989)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/269.html
+Tue, 16 May 2023 05:03:32 GMT, 7631
+movi 13; imdb 12; user 11; parenthood 8; 1989 7; movi 13; imdb 12; user 11; parenthood 8; 1989 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+8 Man (1992)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/7.html
+Tue, 16 May 2023 05:03:40 GMT, 3498
+8 15; titl 13; aka 8; movi 8; match 8; 8 15; titl 13; aka 8; movi 8; match 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Travel the World by Train: Africa (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/119.html
+Tue, 16 May 2023 05:03:18 GMT, 3953
+imdb 12; movi 10; user 10; rate 9; travel 9; imdb 12; movi 10; user 10; rate 9; travel 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Love Letter (1999)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/45.html
+Tue, 16 May 2023 05:03:38 GMT, 3511
+love 27; letter 25; search 16; titl 14; movi 8; love 27; letter 25; search 16; titl 14; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Isle of Man TT 2004 Review (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/2.html
+Tue, 16 May 2023 05:03:26 GMT, 2868
+search 16; review 12; 2004 11; titl 11; tt 8; search 16; review 12; 2004 11; titl 11; tt 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Husbands and Wives (1992)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/156.html
+Tue, 16 May 2023 05:03:22 GMT, 7467
+imdb 12; movi 12; user 11; film 10; rate 10; imdb 12; movi 12; user 11; film 10; rate 10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Chasing Freedom (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/195.html
+Tue, 16 May 2023 05:03:24 GMT, 8378
+taliban 15; imdb 12; movi 12; user 11; freedom 11; taliban 15; imdb 12; movi 12; user 11; freedom 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+What the #$*! Do We Know!? (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/8.html
+Tue, 16 May 2023 05:03:42 GMT, 4147
+titl 17; search 16; know 11; movi 8; what 8; titl 17; search 16; know 11; movi 8; what 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Cookout (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/225.html
+Tue, 16 May 2023 05:03:28 GMT, 3605
+titl 16; the 10; cookout 10; workout 10; v 9; titl 16; the 10; cookout 10; workout 10; v 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Ferngully 2: The Magical Rescue (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/35.html
+Tue, 16 May 2023 05:03:36 GMT, 6086
+movi 13; imdb 12; ferngulli 12; user 11; rate 9; movi 13; imdb 12; ferngulli 12; user 11; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Firetrap (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/150.html
+Tue, 16 May 2023 05:03:20 GMT, 6335
+movi 14; imdb 12; user 11; rate 10; 2001 7; movi 14; imdb 12; user 11; rate 10; 2001 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Spitfire Grill (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/44.html
+Tue, 16 May 2023 05:03:38 GMT, 7514
+movi 16; imdb 12; spitfir 10; 1996 9; rate 9; movi 16; imdb 12; spitfir 10; 1996 9; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+No Way Back (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/109.html
+Tue, 16 May 2023 05:03:18 GMT, 3379
+titl 13; no 8; movi 8; tv 6; back 6; titl 13; no 8; movi 8; tv 6; back 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Chain of Command (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/89.html
+Tue, 16 May 2023 05:03:44 GMT, 7134
+imdb 12; user 11; movi 10; film 8; plot 8; imdb 12; user 11; movi 10; film 8; plot 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Silkwood (1983)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/83.html
+Tue, 16 May 2023 05:03:42 GMT, 7241
+imdb 12; movi 12; silkwood 12; user 11; film 8; imdb 12; movi 12; silkwood 12; user 11; film 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Taxi (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/273.html
+Tue, 16 May 2023 05:03:34 GMT, 10708
+taxi 245; aka 62; tv 21; un 18; de 17; taxi 245; aka 62; tv 21; un 18; de 17; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Micki and Maude (1984)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/279.html
+Tue, 16 May 2023 05:03:34 GMT, 3691
+titl 13; movi 9; micki 9; tv 7; aka 6; titl 13; movi 9; micki 9; tv 7; aka 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Goddess of Mercy (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/141.html
+Tue, 16 May 2023 05:03:20 GMT, 4112
+titl 24; movi 8; match 8; the 6; imdb 6; titl 24; movi 8; match 8; the 6; imdb 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Henry: Portrait of a Serial Killer 2 (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/226.html
+Tue, 16 May 2023 05:03:28 GMT, 3516
+titl 17; search 16; serial 15; 2 11; movi 8; titl 17; search 16; serial 15; 2 11; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Record of Lodoss War: Chronicles of the Heroic Knight (1998)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/88.html
+Tue, 16 May 2023 05:03:42 GMT, 9657
+voic 54; lodoss 17; episod 16; addition 13; imdb 12; voic 54; lodoss 17; episod 16; addition 13; imdb 12; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Angelina Ballerina: Lights (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/264.html
+Tue, 16 May 2023 05:03:32 GMT, 2629
+titl 9; movi 8; light 8; action 7; match 5; titl 9; movi 8; light 8; action 7; match 5; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Frogmen (1951)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/82.html
+Tue, 16 May 2023 05:03:42 GMT, 6731
+imdb 12; user 11; film 10; movi 9; rate 9; imdb 12; user 11; film 10; movi 9; rate 9; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Sanford and Son: Season 6 (1976)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/103.html
+Tue, 16 May 2023 05:03:16 GMT, 3771
+search 16; titl 15; sanford 15; v 9; movi 8; search 16; titl 15; sanford 15; v 9; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Davy Crockett: 50th Anniversary Double Feature (1954)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/73.html
+Tue, 16 May 2023 05:03:40 GMT, 2667
+titl 9; movi 8; doubl 8; match 6; tv 4; titl 9; movi 8; doubl 8; match 6; tv 4; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Unhook the Stars (1996)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/235.html
+Tue, 16 May 2023 05:03:30 GMT, 7025
+movi 13; imdb 12; user 11; star 8; unhook 8; movi 13; imdb 12; user 11; star 8; unhook 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Fame (1980)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/166.html
+Tue, 16 May 2023 05:03:22 GMT, 8511
+fame 14; movi 13; imdb 12; user 11; school 8; fame 14; movi 13; imdb 12; user 11; school 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Rambo: First Blood Part II (1985)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/118.html
+Tue, 16 May 2023 05:03:18 GMT, 8604
+rambo 18; film 12; imdb 12; movi 12; user 11; rambo 18; film 12; imdb 12; movi 12; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Onmyoji (2001)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/210.html
+Tue, 16 May 2023 05:03:26 GMT, 6765
+english 14; voic 13; imdb 12; movi 11; user 11; english 14; voic 13; imdb 12; movi 11; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Inspector Morse 31: Death Is Now My Neighbour (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/25.html
+Tue, 16 May 2023 05:03:30 GMT, 2660
+titl 9; 31 8; mors 8; movi 8; match 6; titl 9; 31 8; mors 8; movi 8; match 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Eye of Vichy (1993)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/112.html
+Tue, 16 May 2023 05:03:18 GMT, 7500
+archiv 59; imdb 12; de 11; movi 11; user 11; archiv 59; imdb 12; de 11; movi 11; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+We're Not Married (1952)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/54.html
+Tue, 16 May 2023 05:03:38 GMT, 5636
+imdb 12; movi 11; rate 11; user 11; plot 7; imdb 12; movi 11; rate 11; user 11; plot 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Gormenghast (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/160.html
+Tue, 16 May 2023 05:03:22 GMT, 6564
+imdb 12; movi 11; user 11; 2000 9; cast 7; imdb 12; movi 11; user 11; 2000 9; cast 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Impostor (2000)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/216.html
+Tue, 16 May 2023 05:03:26 GMT, 3522
+titl 13; el 10; tv 9; movi 8; match 7; titl 13; el 10; tv 9; movi 8; match 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Where Sleeping Dogs Lie (1992)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/147.html
+Tue, 16 May 2023 05:03:20 GMT, 5656
+imdb 12; user 11; movi 9; rate 9; film 8; imdb 12; user 11; movi 9; rate 9; film 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+ECW: Cyberslam '99 (2002)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/92.html
+Tue, 16 May 2023 05:03:44 GMT, 4530
+imdb 12; user 10; movi 9; rate 9; 99 6; imdb 12; user 10; movi 9; rate 9; 99 6; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Westender (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/254.html
+Tue, 16 May 2023 05:03:32 GMT, 6053
+movi 14; imdb 12; user 11; westend 8; 2003 7; movi 14; imdb 12; user 11; westend 8; 2003 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Killing (1956)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/79.html
+Tue, 16 May 2023 05:03:42 GMT, 8474
+kill 127; the 27; tv 19; search 16; titl 11; kill 127; the 27; tv 19; search 16; titl 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+The Battle of Algiers: Bonus Material (1965)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/98.html
+Tue, 16 May 2023 05:03:44 GMT, 2832
+algier 11; titl 10; the 9; bonu 8; movi 8; algier 11; titl 10; the 9; bonu 8; movi 8; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+Missing in Action 2: The Beginning / Missing in Action 3: Braddock (1985)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/185.html
+Tue, 16 May 2023 05:03:24 GMT, 6805
+imdb 12; movi 12; miss 12; action 12; user 11; imdb 12; movi 12; miss 12; action 12; user 11; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+——————————————–——————————————–——————————————–——————————————–
+CNN news1
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn1.htm
+Tue, 16 May 2023 05:03:44 GMT, 4427
+said 11; it 9; plai 8; wishek 8; welk 7; said 11; it 9; plai 8; wishek 8; welk 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn.htm
+——————————————–——————————————–——————————————–——————————————–
+CNN news2
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn2.htm
+Tue, 16 May 2023 05:03:44 GMT, 6009
+climat 13; report 11; emis 10; action 10; stern 7; climat 13; report 11; emis 10; action 10; stern 7; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn.htm
+——————————————–——————————————–——————————————–——————————————–
+BBC news2
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc2.htm
+Tue, 16 May 2023 05:03:44 GMT, 2136
+bt 9; site 7; mp 4; job 4; oper 4; bt 9; site 7; mp 4; job 4; oper 4; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc.htm
+——————————————–——————————————–——————————————–——————————————–
+BBC news1
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc1.htm
+Tue, 16 May 2023 05:03:44 GMT, 1649
+nest 7; chick 4; red 3; new 3; kite 3; nest 7; chick 4; red 3; new 3; kite 3; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc.htm
+——————————————–——————————————–——————————————–——————————————–
+
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc3.htm
+Tue, 16 May 2023 05:03:44 GMT, 3301
+ham 11; west 11; minut 8; cross 6; time 5; 
+——————————————–——————————————–——————————————–——————————————–

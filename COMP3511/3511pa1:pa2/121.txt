@@ -1,0 +1,6 @@
+total 168
+-rw-------@ 1 sunnyli  staff   293B Oct  7 23:17 121.txt
+-rwxr-xr-x  1 sunnyli  staff    34K Oct  7 23:15 a.out
+-rwxr-xr-x  1 sunnyli  staff    34K Oct  8 20:59 myshell
+-rw-r--r--@ 1 sunnyli  staff   7.3K Oct  8 20:59 myshell.c
+-rw-r--r--  1 sunnyli  staff     0B Oct  7 22:38 pa1.c

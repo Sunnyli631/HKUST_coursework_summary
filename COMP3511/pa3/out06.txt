@@ -1,0 +1,73 @@
+=== malloc a 1000 ===
+Block 01: [OCCP] size = 1000 bytes
+=== free a ===
+Block 01: [FREE] size = 1000 bytes
+=== malloc b 300 ===
+Block 01: [OCCP] size = 300 bytes
+Block 02: [FREE] size = 675 bytes
+=== malloc c 200 ===
+Block 01: [OCCP] size = 300 bytes
+Block 02: [OCCP] size = 200 bytes
+Block 03: [FREE] size = 450 bytes
+=== free c ===
+Block 01: [OCCP] size = 300 bytes
+Block 02: [FREE] size = 200 bytes
+Block 03: [FREE] size = 450 bytes
+=== free b ===
+Block 01: [FREE] size = 300 bytes
+Block 02: [FREE] size = 200 bytes
+Block 03: [FREE] size = 450 bytes
+=== malloc d 1001 ===
+Block 01: [FREE] size = 300 bytes
+Block 02: [FREE] size = 200 bytes
+Block 03: [FREE] size = 450 bytes
+Block 04: [OCCP] size = 1001 bytes
+=== malloc e 500 ===
+Block 01: [FREE] size = 300 bytes
+Block 02: [FREE] size = 200 bytes
+Block 03: [FREE] size = 450 bytes
+Block 04: [OCCP] size = 1001 bytes
+Block 05: [OCCP] size = 500 bytes
+=== free e ===
+Block 01: [FREE] size = 300 bytes
+Block 02: [FREE] size = 200 bytes
+Block 03: [FREE] size = 450 bytes
+Block 04: [OCCP] size = 1001 bytes
+Block 05: [FREE] size = 500 bytes
+=== free d ===
+Block 01: [FREE] size = 300 bytes
+Block 02: [FREE] size = 200 bytes
+Block 03: [FREE] size = 450 bytes
+Block 04: [FREE] size = 1001 bytes
+Block 05: [FREE] size = 500 bytes
+=== malloc f 150 ===
+Block 01: [OCCP] size = 150 bytes
+Block 02: [FREE] size = 125 bytes
+Block 03: [FREE] size = 200 bytes
+Block 04: [FREE] size = 450 bytes
+Block 05: [FREE] size = 1001 bytes
+Block 06: [FREE] size = 500 bytes
+=== malloc g 151 ===
+Block 01: [OCCP] size = 150 bytes
+Block 02: [FREE] size = 125 bytes
+Block 03: [OCCP] size = 151 bytes
+Block 04: [FREE] size = 24 bytes
+Block 05: [FREE] size = 450 bytes
+Block 06: [FREE] size = 1001 bytes
+Block 07: [FREE] size = 500 bytes
+=== free g ===
+Block 01: [OCCP] size = 150 bytes
+Block 02: [FREE] size = 125 bytes
+Block 03: [FREE] size = 151 bytes
+Block 04: [FREE] size = 24 bytes
+Block 05: [FREE] size = 450 bytes
+Block 06: [FREE] size = 1001 bytes
+Block 07: [FREE] size = 500 bytes
+=== free f ===
+Block 01: [FREE] size = 150 bytes
+Block 02: [FREE] size = 125 bytes
+Block 03: [FREE] size = 151 bytes
+Block 04: [FREE] size = 24 bytes
+Block 05: [FREE] size = 450 bytes
+Block 06: [FREE] size = 1001 bytes
+Block 07: [FREE] size = 500 bytes

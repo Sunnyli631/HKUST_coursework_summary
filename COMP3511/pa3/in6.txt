@@ -1,0 +1,14 @@
+malloc a 1000
+free a
+malloc b 300
+malloc c 200
+free c
+free b
+malloc d 1001
+malloc e 500
+free e
+free d
+malloc f 150
+malloc g 151
+free g 
+free f

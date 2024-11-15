@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hk.ust.comp3021.parallel.ParallelTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-05-11T13:15:47" hostname="Sunnys-MacBook-Air-3.local" time="0.104">
+  <properties/>
+  <testcase name="testParallelLoadingDivide()" classname="hk.ust.comp3021.parallel.ParallelTest" time="0.038"/>
+  <testcase name="testParallelExecution()" classname="hk.ust.comp3021.parallel.ParallelTest" time="0.03"/>
+  <testcase name="testInterleavedImportQueryTwo()" classname="hk.ust.comp3021.parallel.ParallelTest" time="0.006"/>
+  <testcase name="testParallelExecutionWithOrder()" classname="hk.ust.comp3021.parallel.ParallelTest" time="0.005"/>
+  <testcase name="testInterleavedImportQuery()" classname="hk.ust.comp3021.parallel.ParallelTest" time="0.007"/>
+  <testcase name="testParallelLoadingPool()" classname="hk.ust.comp3021.parallel.ParallelTest" time="0.005"/>
+  <testcase name="testInterleavedImportQueryBonus()" classname="hk.ust.comp3021.parallel.ParallelTest" time="0.005"/>
+  <testcase name="testSerialExecution()" classname="hk.ust.comp3021.parallel.ParallelTest" time="0.004"/>
+  <system-out><![CDATA[[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+AST 18 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+AST 19 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_20.xml
+AST 20 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_100.xml
+AST 100 Failed! Please check your implementation!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_1.xml
+AST 1 Succeed! The XML file is loaded!
+AST 18 Succeed! The XML file is loaded!
+AST 19 Succeed! The XML file is loaded!
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+[LOG FROM QueryOnNode] Querying calculateOp2Nums on #AST 1
+[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+AST 19 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+AST 18 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_1.xml
+AST 1 Succeed! The XML file is loaded!
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+[LOG FROM QueryOnNode] Querying calculateOp2Nums on #AST 1
+[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+AST 18 Succeed! The XML file is loaded!
+AST 19 Succeed! The XML file is loaded!
+[LOG FROM QueryOnClass] Querying findSuperClasses on AST 18
+[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+AST 19 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+AST 18 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_1.xml
+AST 1 Succeed! The XML file is loaded!
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+[LOG FROM QueryOnNode] Querying calculateOp2Nums on #AST 1
+[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_20.xml
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_100.xml
+AST 100 Failed! Please check your implementation!
+AST 20 Succeed! The XML file is loaded!
+AST 19 Succeed! The XML file is loaded!
+AST 18 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+AST 19 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+AST 18 Succeed! The XML file is loaded!
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_1.xml
+AST 1 Succeed! The XML file is loaded!
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+[LOG FROM QueryOnNode] Querying calculateOp2Nums on #AST 1
+[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_18.xml
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_20.xml
+[LOG FROM ASTParser] Parsing AST: resources/pythonxml/python_19.xml
+AST 20 Succeed! The XML file is loaded!
+AST 19 Succeed! The XML file is loaded!
+AST 18 Succeed! The XML file is loaded!
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 18
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 19
+[LOG FROM QueryOnClass] Querying findClassesWithMain on AST 20
+[LOG FROM QueryOnClass] Querying haveSuperClass on AST 18
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
